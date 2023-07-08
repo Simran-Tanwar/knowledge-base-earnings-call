@@ -60,6 +60,6 @@ for company in company_names:
             "Response": response
         }
         response_arr.append(response_dict)
-
+print(response_arr)
 final_df = pd.DataFrame(response_arr)
 final_df.to_excel('final_results.xlsx', index=False)
