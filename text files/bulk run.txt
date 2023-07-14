@@ -1,0 +1,14 @@
+{'Apple Inc.':
+	 [{'What was the total revenue for this quarter?':
+	 '\nThe total revenue for Apple Inc. for this quarter was $94.8 billion.'},
+	 {'How has the revenue growth rate changed compared to the previous period?': 
+	"\nApple Inc.'s revenue for the March quarter was down 3% from the previous year, but on a constant currency basis, the revenue grew year-over-year in total and in the majority of the markets they track. Products revenue was down 5% from the previous year, but iPhone reached a March quarter revenue record due to strong performance in emerging markets. Services revenue was up 5% year-over-year, and the company set an all-time revenue record in Greater China and March quarter records in Americas, Europe and Rest of Asia Pacific."}, 
+	 {'Which product or market segments contributed the most to the overall revenue?':
+	 "\nThe product or market segments that contributed the most to Apple Inc.'s overall revenue were iPhone, Services, Wearables, Home and Accessories, and iPad. iPhone revenue set a March quarter record of $51.3 billion, up 2% year-over-year despite significant foreign exchange headwinds and a challenging macroeconomic environment. Services set an all-time revenue record of $20.9 billion, up 5% year-over-	year, on top of growing 17% in the March quarter a year ago. Wearables, Home and Accessories revenue was $8.8 billion, down 1% year-over-year as the category experienced the impact from the macroeconomic environment. iPad generated $6.7 billion in revenue, down 13% year-over-year and in line with expectations."}],
+ 'Dell Technologies Inc.': 
+	[{'What was the total revenue for this quarter?': 
+	'\nThe total revenue for Dell Technologies Inc. for this quarter was $94.8 billion.'},
+	 {'How has the revenue growth rate changed compared to the previous period?': 
+	"\nDell Technologies Inc. has seen an increase in revenue growth rate compared to the previous period. This is due to the company's focus on selling more high-end systems, as well as its ability to capture cost deflation in the industry. Additionally, Dell has shifted more of its consumer business to direct sales, which is more profitable, and has built attach capabilities around the devices. These changes have allowed Dell to achieve higher operating income marg	ins than before COVID-19."},
+	 {'Which product or market segments contributed the most to the overall revenue?':
+	 "\nThe product or market segments that contributed the most to Dell Technologies Inc.'s overall revenue are commercial systems, premium consumer devices, workstations, services, displays, docks, keyboards, mice, webcams, audio, and gaming peripherals. These segments are more valuable than other products and services, and Dell Technologies Inc. has a leadership position in many of them. Additionally, Dell Technologies Inc. has a direct model that allows them to capture cost deflation in the industry first, which has resulted in higher margins."}]}
